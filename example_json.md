@@ -22,15 +22,17 @@ JSON:
 Рабочий код:
 
 {
+
         "surname":"Иванов",
 
         "name":"Иван",
 
-        "patronymic":"Иванович"
+        "patronymic":"Иванович",
 
         "birthdate":"01.01.1990",
 
         "birthplace":"Москва",
 
         "phone":"89267664848
+
 }
